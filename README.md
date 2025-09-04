@@ -32,9 +32,13 @@ Testing the 3D-printed wing in a new tunnel with flow visualisation techniques.
 The key aim is to evaluate how closely the tunnel data aligns with CFD predictions.  
 
 ### 📊 Podium Review — Analysis & Iteration  
-Summarising the full workflow in a 5-page report located in `/docs/`.  
+Documenting the full workflow in a 5-page executive summary report.
 The report compares CFD and wind tunnel results, highlights lessons learned, and sets directions for the next design cycle.   
+
+---
 
 Got feedback, advice, or better duct tape recommendations?  
 I’m all ears, the whole point is to learn, improve, and share the journey! 🏎️🦇
 
+
+#saaimulation
