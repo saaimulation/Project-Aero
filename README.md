@@ -4,7 +4,7 @@ Designing wings that (almost) qualify for Monaco — CAD → CFD → 3D print �
 Welcome to the BATCAVE🦇 
 
 This repo is where I document my Formula 1-inspired aero projects.  
-From sketches in NX to simulations in SimScale and 3D prints at 3 am, as well as smoke tests in a homemade tunnel.
+From sketches in NX to simulations in SimScale and 3D prints at 3 am, as well as smoke tests in a homemade wind-tunnel.
 
 IT'S ALL HERE!
 
