@@ -13,28 +13,27 @@ Grab a coffee (or duct tape) and enjoy the race ;)
 
 ---
 
-## 🚦 Engineering Workflow Grand Prix
+## 🚦 Engineering Workflow Grand Prix  
 
-### 🏁 Practice Lap — Aero Foundations  
-Learning CAD and aero basics. First sketches, early ideas, and plenty of mistakes.  
+### 🏁 Practice Lap — CAD  
+Creating the baseline front wing geometry in Siemens NX.  
+The design takes inspiration from the RB19 and McLaren concepts, while considering upcoming 2026 regulations.  
 
-### 🚦 Qualifying Lap — Front Wing Development  
-Designing a simplified F1-style front wing in Siemens NX.  
-Inspired by RB19 + McLaren shapes, while keeping an eye on 2026 regs.  
+### 🚦 Qualifying Lap — CFD in SimScale  
+Running the CAD model through CFD to assess airflow and downforce in a virtual wind tunnel.  
+This stage provides the first performance insights before moving to physical testing.  
 
-### 🏎️ Race Lap — CFD in SimScale  
-Running an AoA sweep, plotting Cp maps, chasing vortices, and waiting for progress bars.  
-
-### 🖨️ Pit Stop — 3D Printing  
-Half-span model on the Bambu A1. STL files, slicer settings. 
+### 🏎️ Race Lap — 3D Printing  
+Manufacturing a half-span model of the front wing on the Bambu A1.  
+These parts will be used for physical testing in the upgraded wind tunnel.  
 
 ### 🌬️ Grand Prix — Wind Tunnel Mark II  
-Testing the wing in a homemade tunnel with smoke/tufts.  
-The big question: does the air agree with the CFD?  
+Testing the 3D-printed wing in a new tunnel with flow visualisation techniques.  
+The key aim is to evaluate how closely the tunnel data aligns with CFD predictions.  
 
 ### 📊 Podium Review — Analysis & Iteration  
-5-page executive summary (in `/docs/`) comparing CFD vs tunnel.  
-Lessons learned, what broke, and ideas for the next design cycle.  
+Summarising the full workflow in a 5-page report located in `/docs/`.  
+The report compares CFD and wind tunnel results, highlights lessons learned, and sets directions for the next design cycle.   
 
 Got feedback, advice, or better duct tape recommendations?  
 I’m all ears, the whole point is to learn, improve, and share the journey! 🏎️🦇
