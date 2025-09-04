@@ -23,7 +23,7 @@ The design takes inspiration from the RB19 and McLaren concepts, while consideri
 Running the CAD model through CFD to assess airflow and downforce in a virtual wind tunnel.  
 This stage provides the first performance insights before moving to physical testing.  
 
-### 🏎️ Race Lap — 3D Printing  
+### 🏎️ Sprint Lap — 3D Printing  
 Manufacturing a half-span model of the front wing on the Bambu A1.  
 These parts will be used for physical testing in the upgraded wind tunnel.  
 
