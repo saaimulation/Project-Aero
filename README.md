@@ -1,4 +1,4 @@
-# Project:Aero 🏎️
+# Project: Aero 🏎️
 Designing wings that (almost) qualify for Monaco — CAD → CFD → 3D print → Wind Tunnel  
 
 Welcome to the BATCAVE🦇 
