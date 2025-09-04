@@ -30,9 +30,6 @@ Full details: [FIA 2026 Technical Regulations (PDF)](./fia_2026_formula_1_techni
 **Front view**  
 ![Front view](./front2.jpg)
 
-**Top view**  
-![Top view](./top.jpg)
-
 **Three-quarter renders**  
 ![3/4 render](./front.jpg)  
 ![Side view](./side.jpg)
