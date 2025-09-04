@@ -15,7 +15,7 @@ Grab a coffee (or duct tape) and enjoy the race ;)
 
 ## 🚦 Engineering Workflow Grand Prix  
 
-### 🏁 Practice Lap — CAD  
+### 🏁 Practice Lap — CAD in NX
 Creating the baseline front wing geometry in Siemens NX.  
 The design takes inspiration from the RB19 and McLaren concepts, while considering upcoming 2026 regulations.  
 
