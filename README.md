@@ -1,36 +1,41 @@
-# 🏎️ F1-Aero-Portfolio  
+# Project:Aero 🏎️
 Designing wings that (almost) qualify for Monaco — CAD → CFD → 3D print → Wind Tunnel  
 
-Welcome! This repo showcases my Formula 1-inspired engineering projects — from CAD design to CFD simulations, 3D printing, and wind tunnel testing.  
+Welcome to the BATCAVE🦇 
 
-I’m still early in the journey, so you’ll (hopefully) see the quality of my work improve lap by lap. Reach out on LinkedIn if you have advice, feedback, or opportunities — I’d love to connect.  
+This repo is where I document my Formula 1-inspired aero projects.  
+From sketches in NX to simulations in SimScale and 3D prints at 3 am, as well as smoke tests in a homemade tunnel.
 
----
+IT'S ALL HERE!
 
-## 🚦 Engineering Workflow ("Laps")  
-
-1. **🏁 Practice Lap – Aero Foundations**  
-   Learning CAD and aero basics. First sketches, early ideas, and learning notes.  
-
-2. **🚦 Qualifying Lap – Front Wing Development**  
-   Designing and simulating a scaled-down front wing. CAD in SolidWorks, CFD in STAR-CCM+, first results.  
-
-3. **🏎️ Race Lap – Wind Tunnel Validation**  
-   3D printing and testing in a homemade wind tunnel. Smoke/tuft visualisation and performance measurements.  
-
-4. **📊 Podium Review – Analysis & Iteration**  
-   Post-test analysis, reporting, and lessons learned for the next design cycle.  
+I’m still early in the journey, so you’ll (hopefully) see the quality of my work improve lap by lap.  
+Grab a coffee (or duct tape) and enjoy the race ;)  
 
 ---
 
-## 👤 About Me  
-Hi, I’m **Saaim** — a 3rd-year Aerospace Engineering student at the University of Leicester.  
+## 🚦 Engineering Workflow Grand Prix
 
-I got into Formula 1 recently, and this repo is where I combine that passion with engineering practice.  
+### 🏁 Practice Lap — Aero Foundations  
+Learning CAD and aero basics. First sketches, early ideas, and plenty of mistakes.  
 
-- 📂 Building real-world aero projects with a focus on **design → simulation → testing**  
-- 📫 Contact: [LinkedIn](https://www.linkedin.com/in/saaim-tahir-323a58263) • Email: saaimpersonal@gmail.com  
+### 🚦 Qualifying Lap — Front Wing Development  
+Designing a simplified F1-style front wing in Siemens NX.  
+Inspired by RB19 + McLaren shapes, while keeping an eye on 2026 regs.  
 
----
+### 🏎️ Race Lap — CFD in SimScale  
+Running an AoA sweep, plotting Cp maps, chasing vortices, and waiting for progress bars.  
 
-*This repo includes commit messages, screenshots, reports, and iterative updates so you can follow the full development journey.*  
+### 🖨️ Pit Stop — 3D Printing  
+Half-span model on the Bambu A1. STL files, slicer settings. 
+
+### 🌬️ Grand Prix — Wind Tunnel Mark II  
+Testing the wing in a homemade tunnel with smoke/tufts.  
+The big question: does the air agree with the CFD?  
+
+### 📊 Podium Review — Analysis & Iteration  
+5-page executive summary (in `/docs/`) comparing CFD vs tunnel.  
+Lessons learned, what broke, and ideas for the next design cycle.  
+
+Got feedback, advice, or better duct tape recommendations?  
+I’m all ears, the whole point is to learn, improve, and share the journey! 🏎️🦇
+
