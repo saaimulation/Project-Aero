@@ -15,25 +15,25 @@ Grab a coffee (or duct tape) and enjoy the race ;)
 
 ## 🚦 Engineering Workflow Grand Prix  
 
-### 🏁 Practice Lap — CAD in NX
+### 🏁 [Practice Lap — CAD in NX](./practice-lap-CAD)  
 Creating the baseline front wing geometry in Siemens NX.  
 The design takes inspiration from the RB19 and McLaren concepts, while considering upcoming 2026 regulations.  
 
-### 🚦 Qualifying Lap — CFD in SimScale  
+### 🚦 [Qualifying Lap — CFD in SimScale](./qualifying-lap-CFD)  
 Running the CAD model through CFD to assess airflow and downforce in a virtual wind tunnel.  
 This stage provides the first performance insights before moving to physical testing.  
 
-### 🏎️ Sprint Lap — 3D Printing  
+### 🏎️ [Sprint Lap — 3D Printing](./sprint-3D-printing)  
 Manufacturing a half-span model of the front wing on the Bambu A1.  
 These parts will be used for physical testing in the upgraded wind tunnel.  
 
-### 🌬️ Grand Prix — Wind Tunnel Mark II  
+### 🌬️ [Grand Prix — Wind Tunnel Mark II](./grand-prix-wind-tunnel)  
 Testing the 3D-printed wing in a new tunnel with flow visualisation techniques.  
 The key aim is to evaluate how closely the tunnel data aligns with CFD predictions.  
 
-### 📊 Podium Review — Analysis & Iteration  
-Documenting the full workflow in a 5-page executive summary report.
-The report compares CFD and wind tunnel results, highlights lessons learned, and sets directions for the next design cycle.   
+### 📊 [Podium Review — Analysis & Iteration](./podium-review-analysis)  
+Documenting the full workflow in a 5-page executive summary report.  
+The report compares CFD and wind tunnel results, highlights lessons learned, and sets directions for the next design cycle.  
 
 ---
 
