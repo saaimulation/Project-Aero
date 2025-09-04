@@ -47,7 +47,7 @@ I’ll model a **full-size half-span** wing in NX (so 950 mm if the full span is
 
 2) **Display piece — full-span at ~35% scale**  
    - Size: **~665 mm** span (for photos, not tunnel)  
-   - Printed in 3–4 sections with pins & epoxy sleeves  
+   - Printed in 3–4 sections with pins & glue
    - Lets me show the full geometry without needing a huge tunnel
 
 If the tunnel ends up smaller, I’ll drop the half-span scale to 20% to keep things practical!
