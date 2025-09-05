@@ -101,11 +101,13 @@ To guide the design, I brought in FIA 2026 concept renders and RB19 references (
 This way I can stay within regulations while adding some of Red Bull's innovation!
 
 ### Top View Comparison
-| FIA 2026 Concept | RB19 |
-|------------------|------|
-| ![2026 Top](2026top.jpg) | ![RB19 Top](rbtop.jpg) |
+<p align="center">
+  <img src="2026top.jpg" alt="2026 Top" width="400"/>
+  <img src="rbtop.jpg" alt="RB19 Top" width="400"/>
+</p>
 
 ### Front View Comparison
-| FIA 2026 Concept | RB19 |
-|------------------|------|
-| ![2026 Front](2026front.jpg) | ![RB19 Front](rbfront.jpg) |
+<p align="center">
+  <img src="2026front.jpg" alt="2026 Front" width="400"/>
+  <img src="rbfront.jpg" alt="RB19 Front" width="400"/>
+</p>
