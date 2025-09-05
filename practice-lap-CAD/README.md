@@ -82,14 +82,31 @@ For my project I will use the 2026 FIA concept as the baseline but I will sneak 
 
 ![RB19 Front View](./rb19.jpg)
 
-### 🧩The CAD (finally)
+🧩 The CAD (finally)  
+Here is what you are all waiting for. FINALLY, Saaim is actually going to model and show the front wing. I would also take this opportunity to say, that this is my first time using NX.  
 
-Here is what you are all waiting for. FINALLY, Saaim is actually going to model and show the front wing. 
-I would also take this opportunity to say, that this is my first time using NX.
+Ever...  
 
-Ever... 
+Talk about jumping into the deep end, but that’s what makes it exciting 👀  
 
-Talk about jumping into the deep end, but thats what makes it exciting 👀
+I started by adding some expressions so that scaling down would be a lot easier, which are shown below:  
 
-I started by adding some expressions so that scaling down would be a lot easier, which are shown below:
+![NX Expressions](expressions.png)
+
+---
+
+## Reference Images
+
+To guide the design, I brought in FIA 2026 concept renders and RB19 references.  
+This way I can stay within regulations while adding some of Red Bull's innovation!
+
+### Top View Comparison
+| FIA 2026 Concept | RB19 |
+|------------------|------|
+| ![2026 Top](2026top.jpg) | ![RB19 Top](rbtop.jpg) |
+
+### Front View Comparison
+| FIA 2026 Concept | RB19 |
+|------------------|------|
+| ![2026 Front](2026front.jpg) | ![RB19 Front](rbfront.jpg) |
 
