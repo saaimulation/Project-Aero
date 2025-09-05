@@ -86,6 +86,10 @@ For my project I will use the 2026 FIA concept as the baseline but I will sneak 
 
 Here is what you are all waiting for. FINALLY, Saaim is actually going to model and show the front wing. 
 I would also take this opportunity to say, that this is my first time using NX.
+
 Ever... 
 
 Talk about jumping into the deep end, but thats what makes it exciting 👀
+
+I started by adding some expressions so that scaling down would be a lot easier, which are shown below:
+
