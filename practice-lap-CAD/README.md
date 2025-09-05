@@ -15,9 +15,9 @@ So before any sketches or CAD, it’s time to check the rulebook!
 The FIA trims the 2026 front-wing span by ~100 mm versus today, down to **1900 mm**.  
 It must be one continuous assembly (mainplane, flap, endplates, pylons) and the flap can rotate about a fixed axis for active aero. Endplates have to sit inside the FIA “boxes” and the join into the nose has to be smooth. The headline is simple: **fit the geometry inside the FIA reference volumes first, then chase aero within those limits.**
 
-Full details: [FIA 2026 Technical Regulations (PDF)](./fia_2026_formula_1_technical_regulations_issue_8_-_2024-06-24.pdf)
+Full details: [FIA 2026 Technical Regulations (PDF)](./fia_2026_technical_regulations.pdf)
 
-**Implications for my design**
+**Thoughts for my design**
 - Narrower span means less room for each element.
 - Flap hinge line is fixed by the rules, so flap thickness & clearance need respect.
 - I’m skipping the active “Z/X-mode” for v1 so I can focus on a clean baseline.
