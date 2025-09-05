@@ -10,18 +10,22 @@ I thought about including the new active aerodynamics — Z-mode for high downfo
 
 So before any sketches or CAD, it’s time to check the rulebook!
 
-## 📏 2026 front wing — the rules!
+### 📜 FIA 2026 Front Wing Regulations (condensed)
 
-The FIA trims the 2026 front-wing span by ~100 mm versus today, down to **1900 mm**.  
-It must be one continuous assembly (mainplane, flap, endplates, pylons) and the flap can rotate about a fixed axis for active aero. Endplates have to sit inside the FIA “boxes” and the join into the nose has to be smooth. The headline is simple: **fit the geometry inside the FIA reference volumes first, then chase aero within those limits.**
+- Maximum width reduced to **1900 mm** (100 mm narrower than 2022–25).  
+- Must be a **single assembly**: mainplane, flaps, endplates, pylons.  
+- Up to **4 profiles** allowed, with a fixed flap rotation axis.  
+- Endplates must cover the FIA’s mandated reference boxes in both top and side views.  
+- Smooth transition into the nose, with limited fillet radius (≤ 25 mm).  
+- Active aero (Z/X modes) is permitted, but not included in my first version.  
 
-Full details: [FIA 2026 Technical Regulations (PDF)](./fia_2026_technical_regulations.pdf)
+📂 The full regulations can be found in this repo:  
+`/practice-lap-CAD/fia_2026_technical_regulations.pdf`
 
 **Thoughts for my design**
 - Narrower span means less room for each element.
 - Flap hinge line is fixed by the rules, so flap thickness & clearance need respect.
 - I’m skipping the active “Z/X-mode” for v1 so I can focus on a clean baseline.
-  Though I will come back to this in a future project!
 
 ---
 
