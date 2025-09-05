@@ -19,14 +19,15 @@ So before any sketches or CAD, it’s time to check the rulebook!
 - Smooth transition into the nose, with limited fillet radius (≤ 25 mm).  
 - Active aero (Z/X modes) is permitted, but not included in my first version.  
 
+**What this means for me**  
+- I need to design within a narrower span and tighter FIA boxes.  
+- Endplates must stay simple and legal; no overcomplicated tricks.  
+- Flap geometry has to respect the fixed hinge axis.  
+- Active aero is allowed in the regs, but I’ll skip it for now.  
+- My target is a clean, rule-aware baseline wing that can be tested in CFD and the tunnel.  
+
 📂 The full regulations can be found in this repo:  
 `/practice-lap-CAD/fia_2026_technical_regulations.pdf`
-
-**What this means for me**  
-For my CAD model, the narrower span and reference boxes mean I can’t just copy an old design, everything has to fit inside tighter boundaries.
-The endplates in particular are more restricted, so I’ll need to keep them simple and legal. 
-The flap hinge is fixed by the regs, so the geometry has to respect that axis.
-Active aero is allowed, but I’ll skip it for now and focus on building a clean, rule-aware baseline wing that can actually be tested in CFD and the tunnel.
 
 
 ---
