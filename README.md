@@ -16,9 +16,9 @@ Grab a coffee (or duct tape) and enjoy the race ;)
 ## 🚦 Engineering Workflow Grand Prix  
 
 ### 🏁 [Practice Lap — CAD in NX](./practice-lap-CAD) 🔄 In Progress  
-`[███-------] 30%`  
+`[█████-----] 50%`  
 Creating the baseline front wing geometry in Siemens NX.  
-The design takes inspiration from the RB19 and McLaren concepts, while considering upcoming 2026 regulations.  
+The design takes inspiration from the RB19, while considering upcoming 2026 regulations.  
 
 ### 🚦 [Qualifying Lap — CFD in SimScale](./qualifying-lap-CFD) ⏳ Planned  
 `[----------] 0%`  
