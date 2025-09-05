@@ -29,7 +29,6 @@ So before any sketches or CAD, it’s time to check the rulebook!
 📂 The full regulations can be found in this repo:  
 `/practice-lap-CAD/fia_2026_technical_regulations.pdf`
 
-
 ---
 
 ### 🔎 Visual references (FIA concept)
@@ -69,7 +68,24 @@ If the tunnel ends up smaller, I’ll drop the half-span scale to 20% to keep th
 
 ---
 
+### 🏎️ RB19 Inspiration  
 
+The RB19 was the most dominant car of the ground effect era, winning almost every race in 2023. Its front wing was a big part of that success — not because it looked crazy, but because it was refined everywhere that mattered.  
 
+Some highlights worth stealing:  
+- The flaps tapered toward the endplate which helped push air neatly around the front tyres.  
+- The outer section had just enough curvature to bias the flow outward and clean up the tyre wake.  
+- The stacking line across the elements was smooth so vortices stayed stable instead of breaking up into chaos.  
+- The centre section near the nose was kept simple and low drag so the wing could work hardest at the outer span.  
 
+For my project I will use the 2026 FIA concept as the baseline but I will sneak in some RB19 flavour. Flap tapering, outer sweep and a smooth stacking line are all on the menu. The aim is not to build Red Bull’s secret sauce but to let the most successful design of recent years inspire a student version that can survive CAD CFD and eventually my wind tunnel.  
 
+![RB19 Front View](./rb19.jpg)
+
+### 🧩The CAD (finally)
+
+Here is what you are all waiting for. FINALLY, Saaim is actually going to model and show the front wing. 
+I would also take this opportunity to say, that this is my first time using NX.
+Ever... 
+
+Talk about jumping into the deep end, but thats what makes it exciting 👀
