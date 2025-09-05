@@ -22,10 +22,12 @@ So before any sketches or CAD, it’s time to check the rulebook!
 📂 The full regulations can be found in this repo:  
 `/practice-lap-CAD/fia_2026_technical_regulations.pdf`
 
-**Thoughts for my design**
-- Narrower span means less room for each element.
-- Flap hinge line is fixed by the rules, so flap thickness & clearance need respect.
-- I’m skipping the active “Z/X-mode” for v1 so I can focus on a clean baseline.
+**What this means for me**  
+For my CAD model, the narrower span and reference boxes mean I can’t just copy an old design, everything has to fit inside tighter boundaries.
+The endplates in particular are more restricted, so I’ll need to keep them simple and legal. 
+The flap hinge is fixed by the regs, so the geometry has to respect that axis.
+Active aero is allowed, but I’ll skip it for now and focus on building a clean, rule-aware baseline wing that can actually be tested in CFD and the tunnel.
+
 
 ---
 
