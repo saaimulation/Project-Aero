@@ -82,7 +82,7 @@ For my project I will use the 2026 FIA concept as the baseline but I will sneak 
 
 ![RB19 Front View](./rb19.jpg)
 
-🧩 The CAD (finally)  
+## 🧩 The CAD (finally)  
 Here is what you are all waiting for. FINALLY, Saaim is actually going to model and show the front wing. I would also take this opportunity to say, that this is my first time using NX.  
 
 Ever...  
