@@ -111,3 +111,11 @@ This way I can stay within regulations while adding some of Red Bull's innovatio
   <img src="2026front.jpg" alt="2026 Front" width="400"/>
   <img src="rbfront.jpg" alt="RB19 Front" width="400"/>
 </p>
+
+So here we go! Loaded up NX, reference images in hand, tons of time. 
+
+"this should be okay"
+
+SAID NO-ONE EVER!!! As I was trying to insert my reference images, I was met with an amazing greeting:
+
+![heartbreak](heartbreak.png)
