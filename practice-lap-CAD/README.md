@@ -123,150 +123,155 @@ SAID NO-ONE EVER!!! As I was trying to insert my reference images, I was met wit
 I quickly realised the free student version of Siemens NX had a limited toolbox. No fancy curvature tools, no face manipulation, not even image references for guidance.  
 So the game became about loopholes: datum planes, fillets, splines and persistence. 
 
+## 🛠️ CAD Build Log — Practice Lap  
+
+I quickly realised that the student version of Siemens NX had a limited number of tools, since it is not meant for commercial use.  
+This meant that I couldn't curve flaps and move them at my will. So I utilised angles, filleting edges and just tried to find loopholes in what I could and couldn’t do.  
+
 ---
 
-### 🚦 The Start  
+## 🚦 The Start  
 
-My first attempt? The nose.  
-Disaster.  
+I started off by making the nose of the car, which turned out terrible:  
 
-![fail1](./screenshots/fail1.png)  
-![fail2](./screenshots/fail2.png)  
+<p align="center">
+  <img src="./screenshots/fail1.png" width="400"/>
+  <img src="./screenshots/fail2.png" width="400"/>
+</p>  
 
-After an hour of pain, I decided to start simpler with the mainplane.  
+After trying for an hour, I realised it would be better to start with the mainplane instead.  
 
-According to the FIA 2026 regs, the front wing can be 1900 mm wide in total. Since I only needed half-span, I went with 800 mm for the mainplane, leaving ~150 mm clear for the endplate.  
+With regulations stating the wing can only be 950 mm wide, I made the mainplane 800 mm, leaving 150 mm for the endplate design.  
 
 ![flap1](./screenshots/flap1.png)  
 
-What I built:  
-- Leading edge fillet radius 5 mm for smoother airflow  
-- Trailing edge fillet radius 50 mm to encourage downforce rather than lift  
-- Thickness set to 10 mm in line with regs  
+This had fillets of radius 5 mm at the front and 50 mm at the rear to create downforce (at least in theory, the CFD will confirm).  
 
-Not the perfect aerofoil, but as a baseline it ticked FIA boxes and gave me a platform for the stack.  
-
----
-
-### 📐 Datum Planes: My Secret Weapon  
-
-Since I couldn’t curve or sweep faces, I leaned on angled datum planes to create flaps at different incidences.  
-This was the breakthrough that let me mimic some RB19 flavour.  
+Since I couldn’t use curves, moving faces or image references, I learned how to use datum planes. Creating planes at angles allowed me to get closer to the RB19 look.  
 
 ![planeangle](./screenshots/planeangle.png)  
 
-For context, here’s the Audi 2026 concept I referenced alongside the FIA renders. Having these in mind kept me within the legal boxes while still aiming for something F1-inspired.  
+For reference, here’s the Audi 2026 concept, which made it easier to grasp the new regulations and shapes of the flaps, nose and endplate:  
 
 ![audiconcept](./screenshots/audiconcept.png)  
 
 ---
 
-### 🪂 Flap 2, 3 and 4  
+## 🪂 Flaps  
 
-Using angled datum planes:  
-- Flap 2 at +5°  
-- Flap 3 at +10°  
-- Flap 4 at +20° (my “DRS-inspired” big hitter)  
-
-Each was extruded to 8–10 mm thickness with filleted edges for realism.  
+The second flap was sketched on a 5° datum plane, using splines and arcs, then extruded to ~8–10 mm thickness (in line with regs).  
 
 ![2ndflap](./screenshots/2ndflap.png)  
 
-One FIA rule I had to watch carefully: no visible slot gaps from top view.  
-My first try? Fail.  
+One FIA rule is that there should be no visible gaps from the top view. My first attempt vs fix:  
 
-![topviewgaps](./screenshots/topviewgaps.png)  
+<p align="center">
+  <img src="./screenshots/topviewgaps.png" width="400"/>
+  <img src="./screenshots/topviewfixes.png" width="400"/>
+</p>  
 
-Quick fix by adjusting the plane offsets:  
+I continued the same method for the 3rd and 4th flaps, taking inspiration from the RB19.  
 
-![topviewfixes](./screenshots/topviewfixes.png)  
+<p align="center">
+  <img src="./screenshots/allflaps.png" width="400"/>
+  <img src="./screenshots/allflaps2.png" width="400"/>
+</p>  
 
-With all four stacked, the wing finally started to look like something that belonged on an F1 car rather than a student assignment.  
-
-![allflaps](./screenshots/allflaps.png)  
-![allflaps2](./screenshots/allflaps2.png)  
+Overall, I was happy with the result. The process became simple once I figured out how to build the first flap.  
 
 ---
 
-### 🧱 The Endplate  
+## 🧱 The Endplate  
 
-Trickier than expected. Without surface sweeps, I built the endplate as a 6 mm thick extrusion, then sculpted it with arcs and triangle cut-outs.  
+This part was tricky. Without curve tools, I created a basic 6 mm thick extrusion united with the flaps:  
 
 ![basicendplate](./screenshots/basicendplate.png)  
 
-At first the final flap didn’t meet the endplate cleanly:  
+At first, the last flap didn’t connect:  
 
-![endplategap](./screenshots/endplategap.png)  
+<p align="center">
+  <img src="./screenshots/endplategap.png" width="400"/>
+  <img src="./screenshots/endplategapfix.png" width="400"/>
+</p>  
 
-Fixed it by adjusting the sketch and re-aligning with the flap edge:  
+For the outer curve, I used arcs and splines, then a triangular cut with a 3 mm fillet radius.  
 
-![endplategapfix](./screenshots/endplategapfix.png)  
+<p align="center">
+  <img src="./screenshots/endplatedge.png" width="400"/>
+  <img src="./screenshots/endplateside.png" width="400"/>
+</p>  
 
-To improve airflow and allow some outwash past the tyres, I added slots with 80 mm fillets. These are a common trick for managing the Y250 vortex and reducing drag.  
+To improve airflow and allow outwash past the tyres, I added slots with 80 mm fillets. These help with drag reduction and vortex management.  
 
-![slot1](./screenshots/slot1.png)  
-![slot2](./screenshots/slot2.png)  
-![slot3](./screenshots/slot3.png)  
+<p align="center">
+  <img src="./screenshots/slot1.png" width="250"/>
+  <img src="./screenshots/slot2.png" width="250"/>
+  <img src="./screenshots/slot3.png" width="250"/>
+</p>  
 
 ---
 
-### 👃 The Nose  
+## 👃 The Nose  
 
-Back to where I started, but this time with more confidence.  
-Two rectangles, a couple of arcs, extruded at 10° with fillets — and I had a legal FIA-style nose.  
+Back to the beginning. Once I had more confidence, the nose became straightforward. A couple of rectangles and arcs on the XY plane, extruded at 10°, plus some fillets gave me this:  
 
-![nose](./screenshots/nose.png)  
-![nosefront](./screenshots/nosefront.png)  
+<p align="center">
+  <img src="./screenshots/nose.png" width="400"/>
+  <img src="./screenshots/nosefront.png" width="400"/>
+</p>  
 
-In the 2026 regs, only the mainplane connects to the nose. The active flaps remain free for movable aero.  
+In the 2026 concept, only the mainplane connects to the nose. The flaps remain separate for active aero.  
 
 ![connection](./screenshots/connection.png)  
 
 ---
 
-### 🏁 Final Model  
+## 🏁 Final Model  
 
-After mirroring across the ZY plane, I finally had a full-span wing.  
+After mirroring across the ZY plane, I finally had the full wing.  
 
-![finalfront](./screenshots/finalfront.png)  
-![finalfront1](./screenshots/finalfront1.png)  
+<p align="center">
+  <img src="./screenshots/finalfront.png" width="400"/>
+  <img src="./screenshots/finalfront1.png" width="400"/>
+</p>  
+
 ![finalangle](./screenshots/finalangle.png)  
 
 ---
 
-### 🖤 Carbon Fibre Glam Shots  
+## 🖤 Carbon Fibre, Why Not?
 
 Because every project deserves a photoshoot.  
 
-![carbonangle](./screenshots/carbonangle.png)  
-![carbonfront](./screenshots/carbonfront.png)  
-![carbonangle1](./screenshots/carbonangle1.png)  
-![othernangle](./screenshots/othernangle.png)  
-![carbontop](./screenshots/carbontop.png)  
-![anotherangle](./screenshots/anotherangle.png)  
+<p align="center">
+  <img src="./screenshots/carbonangle.png" width="300"/>
+  <img src="./screenshots/carbonfront.png" width="300"/>
+  <img src="./screenshots/carbonangle1.png" width="300"/>
+</p>  
+
+<p align="center">
+  <img src="./screenshots/otherangle.png" width="300"/>
+  <img src="./screenshots/carbontop.png" width="300"/>
+  <img src="./screenshots/anotherangle.png" width="300"/>
+</p>  
 
 ---
 
-### 📚 Lessons Learned  
+## 📚 Summary  
 
-- Work with the tools you’ve got. No curves? Use datum planes, arcs, and fillets. Creativity > features.  
-- Regulations drive design. Width, thickness, gap rules — everything is boxed in.  
-- RB19 inspiration works. Even simple tapering and angle changes made the design feel more “F1” than generic.  
-- Iterate fast. Once flap 1 was sorted, 2–4 came much quicker.  
-- Details matter. Fixing slot gaps and adding outwash slots might feel small, but they’re exactly what separates a legal design from an effective one.  
+This stage of Project: Aero has been fun and insightful. With no tutorials, textbooks, guidance or external assistance, I used passion and creativity to build ST0, the first of many iterations.  
 
----
+Even with the limitations of NX, I was able to:  
+- Adhere to FIA regulations  
+- Think about aerodynamic efficiency  
+- Add RB19 features
+- Learn a new software
+- Use my creativity to design something from scratch
 
-### ✅ Summary  
+I hope to continue this work and make it better, and challenge myself to even harder concepts. 
+Thank you for reading! If you had any questions or any advice, please reach out to me on LinkedIn!
 
-This is ST0, the first version of my 2026-spec front wing.  
-- Built under student NX restrictions  
-- Legal to FIA regs  
-- RB19-inspired geometry where possible  
-
-It’s not perfect and it’s not proven, but it’s a foundation. The next step is to validate this in CFD and see whether my logic holds up in the flow field.  
-
-👉 CFD testing can be found here:  
+The next step is CFD testing, which you can find here:  
 [Project-Aero/qualifying-lap-CFD](../qualifying-lap-CFD/)  
 
-That’s all for now. See you in qualifying 😉
+### That’s all for now. See you in qualifying 😉  
