@@ -119,3 +119,9 @@ So here we go! Loaded up NX, reference images in hand, tons of time.
 SAID NO-ONE EVER!!! As I was trying to insert my reference images, I was met with an amazing greeting:
 
 ![heartbreak](heartbreak.png)
+
+
+
+
+
+# Still updating this! Come back in a few hours to see everything!!
