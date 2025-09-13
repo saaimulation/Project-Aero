@@ -15,12 +15,12 @@ Grab a coffee (or duct tape) and enjoy the race ;)
 
 ## 🚦 Engineering Workflow Grand Prix  
 
-### 🏁 [Practice Lap — CAD in NX](./practice-lap-CAD) 🔄 In Progress  
-`[█████-----] 50%`  
+### 🏁 [Practice Lap — CAD in NX](./practice-lap-CAD) ✅ Complete
+`[██████████] 100%`  
 Creating the baseline front wing geometry in Siemens NX.  
 The design takes inspiration from the RB19, while considering upcoming 2026 regulations.  
 
-### 🚦 [Qualifying Lap — CFD in SimScale](./qualifying-lap-CFD) ⏳ Planned  
+### 🚦 [Qualifying Lap — CFD in SimScale](./qualifying-lap-CFD) 🔄 In Progress 
 `[----------] 0%`  
 Running the CAD model through CFD to assess airflow and downforce in a virtual wind tunnel.  
 This stage provides the first performance insights before moving to physical testing.  
