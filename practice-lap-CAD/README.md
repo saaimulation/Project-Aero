@@ -257,6 +257,18 @@ Because every project deserves a photoshoot.
 
 ---
 
+## 📂 Download the CAD
+
+For anyone who wants to check it out or 3D print it, here’s the model export:  
+
+➡️ [Download FW2026Full (.stl)](./FW2026Full.stl)
+
+This STL is the full mirrored version of ST0.  
+It’s ready for printing and can also be imported into most CAD and CFD tools.  
+
+If you’d like the parametric file with sketches and planes, let me know! I’ll add a STEP version later.
+
+
 ## 📚 Summary  
 
 This stage of Project: Aero has been fun and insightful. With no tutorials, textbooks, guidance or external assistance, I used passion and creativity to build ST0, the first of many iterations.  
