@@ -21,7 +21,7 @@ Creating the baseline front wing geometry in Siemens NX.
 The design takes inspiration from the RB19, while considering upcoming 2026 regulations.  
 
 ### 🚦 [Qualifying Lap — CFD in SimScale](./qualifying-lap-CFD) 🔄 In Progress 
-`[----------] 0%`  
+`[██--------] 20%`  
 Running the CAD model through CFD to assess airflow and downforce in a virtual wind tunnel.  
 This stage provides the first performance insights before moving to physical testing.  
 
@@ -47,4 +47,4 @@ Got feedback, advice, or better duct tape recommendations?
 I’m all ears, the whole point is to learn, improve, and share the journey! 🏎️🦇
 
 
-# saaimulation
+**saaimulation**
