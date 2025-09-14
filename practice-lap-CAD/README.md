@@ -120,11 +120,6 @@ SAID NO-ONE EVER!!! As I was trying to insert my reference images, I was met wit
 
 ![heartbreak](heartbreak.png)
 
-I quickly realised the free student version of Siemens NX had a limited toolbox. No fancy curvature tools, no face manipulation, not even image references for guidance.  
-So the game became about loopholes: datum planes, fillets, splines and persistence. 
-
-## 🛠️ CAD Build Log — Practice Lap  
-
 I quickly realised that the student version of Siemens NX had a limited number of tools, since it is not meant for commercial use.  
 This meant that I couldn't curve flaps and move them at my will. So I utilised angles, filleting edges and just tried to find loopholes in what I could and couldn’t do.  
 
