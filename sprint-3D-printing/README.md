@@ -1,88 +1,74 @@
-# 🏎️ Sprint Lap — 3D Printing  
+# 🏎️ Sprint Lap – 3D Printing  
 
-"Box, box, box for hards… STAY OUT, STAY OUT!"  
+*"Box box, box box, for hard. STAY OUT, STAY OUT!"*  
 
-Welcome back! This time we’re in the garage with something a little different: 3D printing the front wing we built in CAD. No new regs to read, no endless datum planes… just slicing, supports, and a lot of filament. Welcome to the sprint lap.  
-
----
-
-## 🧵 The filament  
-
-First up: I grabbed some CF PLA (carbon fibre PLA) filament. Nothing crazy, just a £20 spool with 10% carbon fibre.  
-
-Link: [Amazon — CF PLA](https://www.amazon.co.uk/FLASHFORGE-Filament-Dimensional-Lightweight-Heat-Resistant/dp/B0DHZQ8812/)  
-
-Not aerospace-grade, but it looks the part. Decent for a broke student who wants carbon fibre vibes without remortgaging the house.  
+Hello again! This time we’re doing something a lot easier — 3D printing the front wing made earlier.  
+This should be quick, welcome to the sprint!  
 
 ---
 
-## 🖥️ Into Bambu Studio  
+## 🎯 Filament choice  
 
-Loaded up the ST0 model into Bambu Studio. This wasn’t my first time slicing, but it was the first time I tried something *big*.  
+I bought CF PLA (carbon fibre PLA filament) for the print.  
+[Link to the exact one I used](https://www.amazon.co.uk/FLASHFORGE-Filament-Dimensional-Lightweight-Heat-Resistant/dp/B0DHZQ8812/ref=sr_1_7?dib=eyJ2IjoiMSJ9.WuFrvd5-fzhBbLjLpIsEYK_rOOp7MpHopHjIkA7lXRj8lXz4k7e3wLJi6JaRUf8jL9lLcOEJSVRxzbGGFznK0edJv1PAF6WNp-D7-mt-smSubkE4kAx8XwDTyIZM6FurbALHPqd2gZaJbOWqmcrcK-7UvK-QfVXcW6_Fkx4LMMfJCL8XPsxfJ3YBkurMuMZ-iGxwtwl8UaPmpyfZN33lm59NaVq0fYPSCQWb5knJFWaWGaJyZxedjNXwgWZcdColCKG0K2QYZLQYN8qwF_rfk6j0yN42kdgkqkvp77bUus4.f3l7GlCDoZeJLk7zPmnToVySm3kOCLVjTsCdtgEdTnQ&dib_tag=se&keywords=carbon%2Bfibre%2Bfilament&qid=1758226459&sr=8-7&th=1).  
+
+It’s only 10% carbon fibre but at £20 it’s decent for testing.  
+
+---
+
+## 🖥️ Slicing setup  
+
+Opened the ST0 model in Bambu Studio. Not my first time slicing, but definitely the first time at this scale.  
 
 <p align="center">
-  <img src="./screenshots/bigwing.png" width="400"/>
-  <img src="./screenshots/bigwing1.png" width="400"/>
+  <img src="bigwing.png" width="400"/>
+  <img src="bigwing1.png" width="400"/>
 </p>  
 
-I cut the model into parts, spread them across different build plates, and set it all up.  
+I cut the model into sections and placed them on separate build plates:  
 
 <p align="center">
-  <img src="./screenshots/partswing.png" width="500"/>
+  <img src="partswings.png" width="500"/>
 </p>  
-
-One section alone was estimated at 8 hours.  
 
 ---
 
 ## 💥 First failed attempt  
 
-Not even 30 minutes in, disaster. Supports failed, the print warped, and almost 400 g of filament was about to be wasted.  
+The first section was estimated at 8 hours… but not even 30 minutes in, disaster struck.  
+Supports failed, the print warped, and almost 400 g of filament was about to be wasted.  
 
 <p align="center">
-  <img src="./screenshots/fail.webp" width="500"/>
+  <img src="fail.webp" width="400"/>
+  <img src="grumeme.png" width="400"/>
 </p>  
 
-Honestly though, this meme sums it up better than words:  
-
-<p align="center">
-  <img src="./screenshots/printfailmeme.png" width="500"/>
-</p>  
-
-Lesson learned: at 30% scale the flaps were only a few millimetres thick. Even if the print had finished, gluing everything together would’ve been a nightmare.  
+Lesson learned: at 30% scale, the flaps were only a few millimetres thick. Joining parts together would have been a nightmare.  
 
 ---
 
-## 🪛 Rethinking the plan  
+## ✅ New plan  
 
-So, instead of trying to force one massive print, I decided on two different models:  
+I decided to split this into two separate goals:  
 
-1. **Display model** — larger wing, just to hang up or stick on a shelf.  
-2. **Tunnel model** — smaller (10–15% scale) so it’ll fit inside the wind tunnel I’m building.  
+1. A **display model** — larger scale, purely for my room.  
+2. A **test model** — smaller, around 10–15% scale, for the wind tunnel.  
 
----
-
-## ✅ The new print  
-
-For the display version, I rotated the model so the nose faced upwards. That way, there weren’t a hundred supports hanging under the flaps. Less material, cleaner finish, faster print.  
+Here’s the setup for the display print:  
 
 <p align="center">
-  <img src="./screenshots/newprint.png" width="400"/>
+  <img src="newprint.png" width="400"/>
+  <img src="newprint1.png" width="400"/>
 </p>  
+
+Rotating the wing nose-up reduced the supports under the thin flaps and saved print time + material.  
+
+Final slicer check:  
 
 <p align="center">
-  <img src="./screenshots/newprint1.png" width="400"/>
-  <img src="./screenshots/newprint2.png" width="400"/>
+  <img src="newprint2.png" width="500"/>
 </p>  
 
-Now it’s just a matter of waiting ~8 hours and praying it doesn’t explode mid-print. This time, I actually trusted it enough to get some sleep.  
-
----
-
-## 🏁 Wrap-up  
-
-3D printing the wing is its own race: strategy, failures, and last-minute setup changes. The first attempt taught me that scale matters more than I thought, and the second attempt showed me how print orientation can make or break thin aero parts.  
-
-Next step: the wind tunnel model. Once that’s printed, the CFD and experimental testing will finally meet in the middle.  
+Now we wait 8 hours… fingers crossed this time.  
 
 
