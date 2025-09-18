@@ -22,7 +22,7 @@ Opened the ST0 model in Bambu Studio. Not my first time slicing, but definitely 
 
 <p align="center">
   <img src="bigwing.png" width="400"/>
-  <img src="bigwing1.png" width="400"/>
+  <img src="bigwing1.png" width="350"/>
 </p>  
 
 I cut the model into sections and placed them on separate build plates:  
@@ -33,22 +33,22 @@ I cut the model into sections and placed them on separate build plates:
 
 ---
 
-## 💥 First failed attempt  
+## 💥 First failed attempt
 
-The first section was estimated at 8 hours… but not even 30 minutes in, disaster struck.  
-Supports failed, the print warped, and almost 400 g of filament was about to be wasted.  
-
-<p align="center">
-  <img src="./screenshots/fail.webp" width="500"/>
-</p>  
-
-And honestly… this meme sums it up better than words:  
+The first section was estimated at 8 hours… but not even 30 minutes in, disaster struck.
+Supports failed, the print warped, and almost 400 g of filament was about to be wasted.
 
 <p align="center">
-  <img src="./screenshots/printfailmeme.png" width="500"/>
-</p>  
+  <img src="./fail.webp" width="500"/>
+</p>
 
-Lesson learned: at 30% scale, the flaps were only a few millimetres thick. Even if the print had finished, sticking the pieces together would’ve been a nightmare.  
+And honestly… this meme sums it up better than words:
+
+<p align="center">
+  <img src="./grumeme.png" width="500"/>
+</p>
+
+Lesson learned: at 30% scale, the flaps were only a few millimetres thick. Even if the print had finished, sticking the pieces together would’ve been a nightmare.
 
 ---
 
