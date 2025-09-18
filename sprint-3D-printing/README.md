@@ -23,7 +23,7 @@ Opened the ST0 model in Bambu Studio. Not my first time slicing, but definitely 
 
 <p align="center">
   <img src="bigwing.png" width="400"/>
-  <img src="bigwing1.png" width="350"/>
+  <img src="bigwing1.png" width="300"/>
 </p>  
 
 I cut the model into sections and placed them on separate build plates:  
