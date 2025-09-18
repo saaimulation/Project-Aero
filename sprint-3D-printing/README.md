@@ -2,7 +2,7 @@
 
 *"Box now! Box! Box now box, for hard! Uh, STAY OUT, STAY OUT!"*  
 
-Hello again! This time we’re doing something a lot easier — 3D printing the front wing made earlier.  
+Hello again! This time we’re doing something a lot easier: **3D printing the front wing!**
 This should be quick, welcome to the sprint!  
 
 ---
@@ -13,6 +13,7 @@ I bought CF PLA (carbon fibre PLA filament) for the print.
 [Link to the exact one I used](https://www.amazon.co.uk/FLASHFORGE-Filament-Dimensional-Lightweight-Heat-Resistant/dp/B0DHZQ8812/ref=sr_1_7?dib=eyJ2IjoiMSJ9.WuFrvd5-fzhBbLjLpIsEYK_rOOp7MpHopHjIkA7lXRj8lXz4k7e3wLJi6JaRUf8jL9lLcOEJSVRxzbGGFznK0edJv1PAF6WNp-D7-mt-smSubkE4kAx8XwDTyIZM6FurbALHPqd2gZaJbOWqmcrcK-7UvK-QfVXcW6_Fkx4LMMfJCL8XPsxfJ3YBkurMuMZ-iGxwtwl8UaPmpyfZN33lm59NaVq0fYPSCQWb5knJFWaWGaJyZxedjNXwgWZcdColCKG0K2QYZLQYN8qwF_rfk6j0yN42kdgkqkvp77bUus4.f3l7GlCDoZeJLk7zPmnToVySm3kOCLVjTsCdtgEdTnQ&dib_tag=se&keywords=carbon%2Bfibre%2Bfilament&qid=1758226459&sr=8-7&th=1).  
 
 It’s only 10% carbon fibre but at £20 it’s decent for testing.  
+(and good for a broke university student)
 
 ---
 
