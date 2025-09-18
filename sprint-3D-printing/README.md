@@ -1,6 +1,6 @@
 # 🏎️ Sprint Lap – 3D Printing  
 
-*"Box box, box box, for hard. STAY OUT, STAY OUT!"*  
+*"Box now! Box! Box now box, for hard! Uh, STAY OUT, STAY OUT!"*  
 
 Hello again! This time we’re doing something a lot easier — 3D printing the front wing made earlier.  
 This should be quick, welcome to the sprint!  
