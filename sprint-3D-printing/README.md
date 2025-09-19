@@ -23,7 +23,7 @@ Opened the ST0 model in Bambu Studio. Not my first time slicing, but definitely 
 
 <p align="center">
   <img src="./images/bigwing.png" width="430"/>
-  <img src="./images/bigwing1.png" width="430"/>
+  <img src="./images/bigwing1.png" width="390"/>
 </p>
 
 I cut the model into sections and placed them on separate build plates:
@@ -64,7 +64,7 @@ Here’s the setup for the display print:
 
 <p align="center">
   <img src="./images/newprint.png" width="430"/>
-  <img src="./images/newprint1.png" width="430"/>
+  <img src="./images/newprint1.png" width="380"/>
 </p>
 
 Rotating the wing nose-up reduced the supports under the thin flaps and saved print time + material.
