@@ -101,9 +101,7 @@ I realised one potential issue, a bit too late, which was the nose of the wing o
 </p>  
 
 This is reflected in the 3D printed version too, but it will be fine after I join the two halves together, giving it more support.  
-The edges have some imperfections, most likely due to the insanely small fillet angles on the back of the flaps, which became even smaller after scaling down.  
-
-I am currently printing the other half of the front wing, which I can then glue together, and stick to my wall!  
+The edges have some imperfections, most likely due to the small fillet angles on the back of the flaps, which became even smaller after scaling down.  
 
 
 BONUS! F1 WING KEYCHAINS FOR EVERYONE!
