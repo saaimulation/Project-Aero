@@ -64,7 +64,7 @@ Here’s the setup for the display print:
 
 <p align="center">
   <img src="./images/newprint.png" width="400"/>
-  <img src="./images/newprint1.png" width="400"/>
+  <img src="./images/newprint1.png" width="350"/>
 </p>  
 
 Rotating the wing nose-up reduced the supports under the thin flaps and saved print time + material.  
