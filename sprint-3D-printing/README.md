@@ -40,7 +40,7 @@ The first section was estimated at 8 hours… but not even 30 minutes in, disast
 Supports failed, the print warped, and almost 400 g of filament was about to be wasted.
 
 <p align="center">
-  <img src="./images/fail.webp" width="500"/>
+  <img src="./images/fail.png" width="500"/>
 </p>
 
 And honestly… this meme sums it up better than words:
