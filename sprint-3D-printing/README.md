@@ -103,13 +103,34 @@ I realised one potential issue, a bit too late, which was the nose of the wing o
 This is reflected in the 3D printed version too, but it will be fine after I join the two halves together, giving it more support.  
 The edges have some imperfections, due to the small fillet angles on the back of the flaps, which became even smaller after scaling down.  
 
-## 🛠️ Assembley 
-After printing the other half, I used superglue to assemble it all together. 
-I wanted to use connectors like small rods and holes, but the wing flaps were way too thin for that. 
-wingglue.png
-Here is how it looks after assembley, at a 35% scale. 
+After printing the other half, I used superglue to assemble the wing.  
+I originally planned to add mechanical connectors (rods and holes), but the flaps were too thin to handle drilling without breaking.  
 
+<p align="center">
+  <img src="./images/wingglue.png" width="400"/>
+</p>  
 
+Here is the completed assembly at 35% scale:  
+
+<p align="center">
+  <img src="./images/full.png" width="400"/>
+  <img src="./images/wall1.png" width="400"/>
+</p>  
+
+For mounting, I used 3M Command strips to attach the wing securely to the wall as a display piece.  
+
+This part of the project taught me a lot about practical assembly and iteration:  
+- How to optimise support structures and infill during slicing to reduce material waste.  
+- How thin-walled aero components behave when scaled for printing, and the compromises needed for strength.  
+- The effort required when transitioning a digital CAD model into a physical prototype suitable for display or testing.  
+
+At 35% scale, the wing is already a huge presence in my room. It gives perspective on the real challenge in F1!<br>
+Where teams build 60% scale wind tunnel models that are several metres wide.<br>
+It’s incredible to think of the engineering effort that goes into those full aerodynamic programmes.  
+
+## 🔬 Test - to visualise aerodynamics... 
+
+This model is going to be used for the wind tunnel 
 
 # 🎁 BONUS! Mini F1 Wing Keychains  
 
