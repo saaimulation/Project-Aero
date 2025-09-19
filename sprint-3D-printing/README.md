@@ -113,7 +113,7 @@ I originally planned to add mechanical connectors (rods and holes), but the flap
 Here is the completed assembly at 35% scale:  
 
 <p align="center">
-  <img src="./images/full.png" width="400"/>
+  <img src="./images/full.png" width="350"/>
   <img src="./images/wall1.png" width="400"/>
 </p>  
 
