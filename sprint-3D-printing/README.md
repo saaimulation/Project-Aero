@@ -60,7 +60,7 @@ I decided to split this into two separate goals:
 1. A **display model** — larger scale, purely for my room.  
 2. A **test model** — smaller, around 10–15% scale, for the wind tunnel.  
 
-Here’s the setup for the display print:  
+## 🖼️ Display - to admire in my room...
 
 <p align="center">
   <img src="./images/newprint.png" width="400"/>
@@ -101,8 +101,133 @@ I realised one potential issue, a bit too late, which was the nose of the wing o
 </p>  
 
 This is reflected in the 3D printed version too, but it will be fine after I join the two halves together, giving it more support.  
-The edges have some imperfections, most likely due to the small fillet angles on the back of the flaps, which became even smaller after scaling down.  
+The edges have some imperfections, due to the small fillet angles on the back of the flaps, which became even smaller after scaling down.  
+
+## 🛠️ Assembley 
+After printing the other half, I used superglue to assemble it all together. 
+I wanted to use connectors like small rods and holes, but the wing flaps were way too thin for that. 
+wingglue.png
+Here is how it looks after assembley, at a 35% scale. 
 
 
-BONUS! F1 WING KEYCHAINS FOR EVERYONE!
+
+# 🎁 BONUS! Mini F1 Wing Keychains  
+
+In the middle of doing these prints, I had an idea:  
+what if I scaled the front wing *all the way down* into a keychain?  
+
+At first it sounded like a gimmick, but it actually became a valuable mini project.  
+It tested how well the design scaled, how durable the geometry was at very small sizes, and how engineering can be shared in an accessible, hands-on form.  
+
+---
+
+## 🔧 Redesign for strength  
+
+To survive at 5% scale, the model needed changes:  
+- Reduced fillets on the flaps (aero efficiency is pointless at keychain scale).  
+- Removed the thin connection walls from the nose to the mainplane.  
+- Lowered the nose and embedded the flaps directly for strength.  
+
+<p align="center">
+  <img src="./images/nose1.png" width="300"/>
+  <img src="./images/nose2.png" width="300"/>
+</p>  
+
+Slots in the endplate were also removed, since they would have weakened the print.  
+
+<p align="center">
+  <img src="./images/noslot.png" width="400"/>
+</p>  
+
+Finally, I added a small cut for the keyring loop.  
+
+<p align="center">
+  <img src="./images/keychain.png" width="300"/>
+  <img src="./images/preprint.png" width="300"/>
+</p>  
+
+---
+
+## 🖨️ First print  
+
+Printed at **5% scale**:  
+
+<p align="center">
+  <img src="./images/smallprint.png" width="300"/>
+  <img src="./images/keyprinted.png" width="300"/>
+</p>  
+
+Surprisingly, it was flexible and strong. But the edges were too rough and the gaps between flaps looked messy.  
+
+<p align="center">
+  <img src="./images/keyedges.png" width="400"/>
+</p>  
+
+---
+
+## ⚙️ Iteration  
+
+I went back to the CAD, removed all edge fillets, and closed the gaps between the flaps.  
+This improved both the look *and* the strength.  
+
+The second version was printed at **4% scale** (yes, even cuter).  
+
+<p align="center">
+  <img src="./images/preprint2.png" width="400"/>
+</p>  
+
+---
+
+## 🏆 Results  
+
+After **31 minutes** and just **3 g of filament**, I created the final version of this F1 wing keychain.  
+
+This served as both a **durability test** and a way to share the project in a pocket-sized format.  
+Instead of keeping the design locked away on CAD or CFD plots, it’s now something people can hold, use, and remember.  
+
+<p align="center">
+  <img src="./images/finalkey.png" width="400"/>
+</p>  
+
+The bottom wing is the smaller, refined version. It still has some rough edges, but at that scale there isn’t much more I can do.  
+Potential improvements could come with a 2 mm nozzle upgrade on my Bambu A1.  
+
+---
+
+This was a mini project to make engineering more accessible and shareable.  
+Here’s the model if you’d like to print one yourself:  
+
+👉 [FWKeyUpdated.3mf](./FWKeyUpdated.3mf)  
+
+## 📚 Summary  
+
+This sprint lap was all about turning CAD into something you can actually hold. From failed attempts to finished parts, I learned more about scaling, durability, and how small design choices show up in the real world once printed.  
+
+Across the different versions, I was able to:  
+
+- Create a display model at larger scale for visual impact  
+- Produce a wind tunnel model at 15% scale for testing and CFD correlation  
+- Design a mini keychain version as a durability test and a way to share engineering in an accessible, pocket-sized form  
+
+Key takeaways:  
+
+- Printing taught me how thin fillets and small gaps can make or break a design at scale  
+- Orientation and slicing strategy are just as important as CAD design when it comes to structural success  
+- Iteration is everything, each print failure gave me insights I wouldn’t have learned in CAD alone  
+
+This stage has been both fun and technical, combining creativity with practical engineering. The wing isn’t just geometry on a screen anymore, it exists in carbon fibre PLA, glued together, keychained, and even tunnel-ready.  
+
+The next stage is wind tunnel testing, which you can find here:  
+[Project-Aero/grand-prix-wind-tunnel](../grand-prix-wind-tunnel)  
+
+That’s all for this sprint lap. Time to take the next corner 😉  
+
+
+
+
+
+
+
+
+
 
