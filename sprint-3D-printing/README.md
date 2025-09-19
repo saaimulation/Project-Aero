@@ -114,7 +114,7 @@ Here is the completed assembly at 35% scale:
 
 <p align="center">
   <img src="./images/full.png" width="350"/>
-  <img src="./images/wall1.png" width="400"/>
+  <img src="./images/wall1.png" width="500"/>
 </p>  
 
 For mounting, I used 3M Command strips to attach the wing securely to the wall as a display piece.  
