@@ -29,7 +29,7 @@ This stage provides the first performance insights before moving to physical tes
 `[████------] 40%`  
 Manufacturing a half-span model of the front wing on the Bambu A1, as well as a larger version for decoration.<br>
 These parts will be used for physical testing in the upgraded wind tunnel.  
-*psst. There's a free F1 wing model for you inside*
+*psst. There's a free F1 wing model for you inside!*
 
 ### 🌬️ [Grand Prix — Wind Tunnel Mark II](./grand-prix-wind-tunnel) ⏳ Planned  
 `[----------] 0%`  
