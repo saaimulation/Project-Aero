@@ -77,4 +77,20 @@ Final slicer check:
 
 Now we wait 8 hours… fingers crossed this time.  
 
+---
+
+Couldn't sleep because of the whirring fans from the printer, but when it was done, it came out pretty well! 
+printed1.png printed2.png 
+
+There was a lot of material used on the supports, but much less than the previous attempt because I managed to lower the infill and branch diameter!
+
+Here is how the print came out:
+halfspanprint.png
+
+I realised one potential issue, a bit too late, which was the nose of the wing only being connected by a thin wall in the model.
+thinconnection.png
+This is reflected in the 3D printed version too, but it will be fine after I join the two halves together, giving it more support. 
+The edges have some imperfections, most likely due to the insanely small fillet angles on the back of the flaps, which became even smaller after scaling down. 
+
+
 
