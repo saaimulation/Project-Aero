@@ -150,9 +150,9 @@ In the end, half-span works better for flow visualisation. With symmetry, I donâ
 Printed at 12% scale, 30% infill. 
 It failed after 10 minutesâ€¦  
 
-The end of the world? Almost.  
+Great, locked up on turn 1...
 
-Just kidding.  
+Time to reiterate!!
 
 ---
 
