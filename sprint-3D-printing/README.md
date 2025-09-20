@@ -130,26 +130,24 @@ It’s incredible to think of the engineering effort that goes into those full a
 
 ## 🔬 Test - to visualise aerodynamics...  
 
-This model is going to be used for the wind tunnel.  
-In Formula 1, teams run their tunnel models at **60% scale** to balance cost and accuracy.  
-I, however, need to balance filament, time, and my sanity — so I’m printing the wing at **10–15% scale**.  
-This way I can still get useful results while keeping the tunnel small enough to build.  
+In Formula 1, teams have their models at 60% scale, to balance cost and accuracy. However, I am trying to balance my time and my sanity.<br>
+So I will be attempting to print the wing at a 10-15% scale. This way I can get more accurate results, whilst restricting the space needed to build the wind tunnel. 
 
-To make it work, I added a **reinforced block** at the nose–flap junction.  
+To make it work, I added a reinforced block at the nose–flap junction.  
 This secures the structure and gives me an area to drill into, so the model can be pinned to the wind tunnel wall for testing.  
 
 <p align="center">
   <img src="./images/tunnelwing.png" width="500"/>
 </p>  
 
-Deciding on **half-span vs full-span** was tricky.  
+Deciding on half-span vs full-span was tricky.  
 In the end, half-span works better for flow visualisation. With symmetry, I don’t need to worry about yaw effects, and I can focus purely on the flow.  
 
 ---
 
 ### ⚠️ First Attempt  
 
-Printed at **12% scale, 30% infill**.  
+Printed at 12% scale, 30% infill. 
 It failed after 10 minutes…  
 
 The end of the world? Almost.  
