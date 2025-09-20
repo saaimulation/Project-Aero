@@ -113,7 +113,7 @@ I originally planned to add mechanical connectors (rods and holes), but the flap
 Here is the completed assembly at 35% scale:  
 
 <p align="center">
-  <img src="./images/full.png" width="350"/>
+  <img src="./images/full.png" width="400"/>
   <img src="./images/wall1.png" width="500"/>
 </p>  
 
@@ -130,7 +130,11 @@ It’s incredible to think of the engineering effort that goes into those full a
 
 ## 🔬 Test - to visualise aerodynamics... 
 
-This model is going to be used for the wind tunnel 
+This model is going to be used for the wind tunnel, teams in F1 have their models at 60% scale, to balance cost and accuracy.
+However, I am trying to balance my time and my sanity. So I will be attempting to print the wing at a 10-15% scale. 
+This way I can get more accurate results, whilst restricting the space needed to build the wind tunnel. 
+
+Using the original model with all the chamfers and fillets, with no slots, at a scale of 15%
 
 # 🎁 BONUS! Mini F1 Wing Keychains  
 
