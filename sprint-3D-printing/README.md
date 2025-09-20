@@ -184,6 +184,7 @@ I also adjusted the slicer settings:
 - Increased branch diameter for sturdier supports  
 
 Now… time to print again!  
+finalprint.png
 
 
 
