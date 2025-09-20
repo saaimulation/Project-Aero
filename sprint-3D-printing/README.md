@@ -136,7 +136,7 @@ This way I can get more accurate results, whilst restricting the space needed to
 
 Using the original model with all the chamfers and fillets, with no slots, at a scale of 15%
 
-# 🎁 BONUS! Mini F1 Wing Keychains  
+# 🎁 BONUS! Mini F1 Wing Keychains!!  
 
 In the middle of doing these prints, I had an idea:  
 what if I scaled the front wing *all the way down* into a keychain?  
