@@ -209,6 +209,7 @@ After **31 minutes** and just **3 g of filament**, I created the final version o
 
 This served as both a **durability test** and a way to share the project in a pocket-sized format.  
 Instead of keeping the design locked away on CAD or CFD plots, it’s now something people can hold, use, and remember.  
+As well as being visual proof of my CAD skills, and giving them as a gift to any interviewers I happen to meet. A nice gesture!
 
 <p align="center">
   <img src="./images/finalkey.png" width="400"/>
