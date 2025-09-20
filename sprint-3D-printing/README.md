@@ -128,13 +128,66 @@ At 35% scale, the wing is already a huge presence in my room. It gives perspecti
 Where teams build 60% scale wind tunnel models that are several metres wide.<br>
 It’s incredible to think of the engineering effort that goes into those full aerodynamic programmes.  
 
-## 🔬 Test - to visualise aerodynamics... 
+## 🔬 Test - to visualise aerodynamics...  
 
-This model is going to be used for the wind tunnel, teams in F1 have their models at 60% scale, to balance cost and accuracy.
-However, I am trying to balance my time and my sanity. So I will be attempting to print the wing at a 10-15% scale. 
-This way I can get more accurate results, whilst restricting the space needed to build the wind tunnel. 
+This model is going to be used for the wind tunnel.  
+In Formula 1, teams run their tunnel models at **60% scale** to balance cost and accuracy.  
+I, however, need to balance filament, time, and my sanity — so I’m printing the wing at **10–15% scale**.  
+This way I can still get useful results while keeping the tunnel small enough to build.  
 
-Using the original model with all the chamfers and fillets, with no slots, at a scale of 15%
+To make it work, I added a **reinforced block** at the nose–flap junction.  
+This secures the structure and gives me an area to drill into, so the model can be pinned to the wind tunnel wall for testing.  
+
+<p align="center">
+  <img src="./images/tunnelwing.png" width="500"/>
+</p>  
+
+Deciding on **half-span vs full-span** was tricky.  
+In the end, half-span works better for flow visualisation. With symmetry, I don’t need to worry about yaw effects, and I can focus purely on the flow.  
+
+---
+
+### ⚠️ First Attempt  
+
+Printed at **12% scale, 30% infill**.  
+It failed after 10 minutes…  
+
+The end of the world? Almost.  
+
+Just kidding.  
+
+---
+
+### 🔎 What Went Wrong  
+
+1. **Endplate too thin** — at 12% scale it became translucent in slicing.  
+   <p align="center"><img src="./images/endplatefail.png" width="400"/></p>  
+
+2. **Old model** — I accidentally used an earlier version with inaccurate fillets and gaps.  
+   <p align="center"><img src="./images/oldmodel.png" width="400"/></p>  
+
+3. **Reinforcement block too small** — not enough surface area for drilling holes.  
+
+---
+
+### ✅ Fixes in the Next Iteration  
+
+1. Thickened the endplate and tweaked the fillets to maintain aerodynamic efficiency.  
+2. Used the updated CAD model, enlarging thin chamfers and angles for printability.  
+3. Extended the reinforcement block to cover a wider base area.  
+
+<p align="center">
+  <img src="./images/reinforce.png" width="350"/>
+  <img src="./images/finaltestermodel.png" width="350"/>
+</p>  
+
+I also adjusted the slicer settings:  
+- Increased the support angle threshold  
+- Increased branch diameter for sturdier supports  
+
+Now… time to print again!  
+
+
 
 # 🎁 BONUS! Mini F1 Wing Keychains!!  
 
