@@ -283,7 +283,7 @@ This sprint lap was all about turning CAD into something you can actually hold. 
 Across the different versions, I was able to:  
 
 - Create a display model at larger scale for visual impact  
-- Produce a wind tunnel model at 15% scale for testing and CFD correlation  
+- Produce a wind tunnel model at a 12% scale for testing and CFD correlation  
 - Design a mini keychain version as a durability test and a way to share engineering in an accessible, pocket-sized form  
 
 Key takeaways:  
