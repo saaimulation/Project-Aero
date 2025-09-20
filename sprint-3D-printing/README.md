@@ -158,13 +158,13 @@ Just kidding.
 
 ### 🔎 What Went Wrong  
 
-1. **Endplate too thin** — at 12% scale it became translucent in slicing.  
+1. **Endplate too thin**: at 12% scale it became translucent in slicing.  
    <p align="center"><img src="./images/endplatefail.png" width="400"/></p>  
 
-2. **Old model** — I accidentally used an earlier version with inaccurate fillets and gaps.  
+2. **Old model**: I accidentally used an earlier version with inaccurate fillets and gaps.  
    <p align="center"><img src="./images/oldmodel.png" width="400"/></p>  
 
-3. **Reinforcement block too small** — not enough surface area for drilling holes.  
+3. **Reinforcement block too small**: not enough surface area for drilling holes.  
 
 ---
 
