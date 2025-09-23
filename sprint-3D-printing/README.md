@@ -60,7 +60,7 @@ I decided to split this into two separate goals:
 1. A **display model** — larger scale, purely for my room.  
 2. A **test model** — smaller, around 10–15% scale, for the wind tunnel.  
 
-## 🖼️ Display - to admire in my room...
+# 🖼️ Display - to admire in my room...
 
 <p align="center">
   <img src="./images/newprint.png" width="400"/>
@@ -128,7 +128,7 @@ At 35% scale, the wing is already a huge presence in my room. It gives perspecti
 Where teams build 60% scale wind tunnel models that are several metres wide.<br>
 It’s incredible to think of the engineering effort that goes into those full aerodynamic programmes.  
 
-## 🔬 Test - to visualise aerodynamics...  
+# 🔬 Test - to visualise aerodynamics...  
 
 In Formula 1, teams have their models at 60% scale, to balance cost and accuracy. However, I am trying to balance my time and my sanity.<br>
 So I will be attempting to print the wing at a 10-15% scale. This way I can get more accurate results, whilst restricting the space needed to build the wind tunnel. 
@@ -189,16 +189,14 @@ I also adjusted the slicer settings:
   <img src="images/testing1.png" width="400"/>
   <img src="images/testing2.png" width="400"/>
 </div>  
-<br>
 This time it worked! The size was right. The flaps came out a little rough around the edges, so I used sandpaper to smooth everything down.  
-
+<br>
 <div style="display: flex; gap: 10px;">
   <img src="images/sanded1.png" width="400"/>
   <img src="images/sanded2.png" width="400"/>
 </div>  
-<br>
 Much better! The edges are smoother, and even the micro print failures won’t have a noticeable effect when I run this in a wind tunnel.  
-
+<br>
 ### 📚 What I Learned  
 - You always have to learn from your mistakes, just like Tony Stark.  
 - Iteration is how most of my progress is made.  
