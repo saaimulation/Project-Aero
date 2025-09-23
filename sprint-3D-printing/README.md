@@ -183,9 +183,29 @@ I also adjusted the slicer settings:
 - Increased the support angle threshold  
 - Increased branch diameter for sturdier supports  
 
-Now… time to print again!  
-finalprint.png
+### 🏁 Final Print and Finishing  
 
+Now… time to print again!  
+<img src="images/finalprint.png" width="400"/>  
+
+<div style="display: flex; gap: 10px;">
+  <img src="images/testing1.png" width="400"/>
+  <img src="images/testing2.png" width="400"/>
+</div>  
+
+This time it worked! The size was right. The flaps came out a little rough around the edges, so I used sandpaper to smooth everything down.  
+
+<div style="display: flex; gap: 10px;">
+  <img src="images/sanded1.png" width="400"/>
+  <img src="images/sanded2.png" width="400"/>
+</div>  
+
+Much better — the edges are smoother, and even the micro print failures won’t have a noticeable effect when I run this in a wind tunnel.  
+
+### 📚 What I Learned  
+- You always have to learn from your mistakes, just like Tony Stark.  
+- Iteration is how most of my progress is made.  
+- I realised that failure genuinely means that I am learning.  
 
 
 # 🎁 BONUS! Mini F1 Wing Keychains!!  
