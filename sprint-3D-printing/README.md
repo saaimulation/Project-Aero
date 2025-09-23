@@ -197,11 +197,11 @@ This time it worked! The size was right. The flaps came out a little rough aroun
 </div>  
 Much better! The edges are smoother, and even the micro print failures won’t have a noticeable effect when I run this in a wind tunnel.  
 <br>
+
 ### 📚 What I Learned  
 - You always have to learn from your mistakes, just like Tony Stark.  
 - Iteration is how most of my progress is made.  
 - I realised that failure genuinely means that I am learning.  
-
 
 # 🎁 BONUS! Mini F1 Wing Keychains!!  
 
