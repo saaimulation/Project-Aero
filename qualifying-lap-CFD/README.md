@@ -29,3 +29,9 @@ Think of this as Q1 in qualifying: the aim isn’t to smash records yet, but to 
 
 If I see these features, I’ll know the design philosophy was on the right track. If not… well, back to the CAD garage for ST1.  
 
+### The start 
+
+So we begin! Just like the start of most of the work so far, I have absolutely no idea how to use this software, but that's fine, we fail fast and try again faster!
+
+
+
