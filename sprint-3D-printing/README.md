@@ -313,7 +313,7 @@ This stage has been both fun and technical, combining creativity with practical 
 The next stage is wind tunnel testing, which you can find here:  
 [Project-Aero/grand-prix-wind-tunnel](../grand-prix-wind-tunnel)  
 
-That’s all for this sprint lap. Time to take the next corner 😉  
+## That’s all for this sprint lap. Time to take the next corner 😉  
 
 
 
