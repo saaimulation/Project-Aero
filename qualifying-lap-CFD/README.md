@@ -21,17 +21,18 @@ Think of this as Q1 in qualifying: the aim isn’t to smash records yet, but to 
 
 ### 🧠 What I Expect to See  
 
-- A clear **pressure differential** across the wing (high pressure above, low pressure below), confirming it generates downforce rather than lift.  
-- **Streamlines** remaining attached through the slot gaps — if they detach too early, the wing stalls and performance drops off a cliff.  
-- Evidence of **Y250 vortex structures** forming near the central section, helping control airflow downstream.  
-- The **outer flaps** biasing flow outward around the tyres (like the RB19), reducing wake turbulence and drag.  
+- A clear pressure differential across the wing (high pressure above, low pressure below), confirming it generates downforce rather than lift.  
+- Streamlines remaining attached through the slot gaps, if they detach too early, the wing stalls and performance drops off a cliff.  
+- Evidence of Y250 vortex structures forming near the central section, helping control airflow downstream.  
+- The outer flaps biasing flow outward around the tyres (like the RB19), reducing wake turbulence and drag.  
 - Boundary layers that stay thin and attached, if they thicken or separate too much, I’ll know my flap angles were too aggressive.  
 
 If I see these features, I’ll know the design philosophy was on the right track. If not… well, back to the CAD garage for ST1.  
 
-### The start 
+### Qualifying 1
 
-So we begin! Just like the start of most of the work so far, I have absolutely no idea how to use this software, but that's fine, we fail fast and try again faster!
+So we begin! Just like the start of most of the work so far, I have absolutely no idea how to use this new software. 
+But that's fine, fail fast and try again faster!
 
 
 
