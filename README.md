@@ -13,7 +13,7 @@ Grab a coffee (or duct tape) and enjoy the race ;)
 
 ---
 
-## 🚦 Engineering Workflow Grand Prix  
+## 🚦 Engineering Workflow Race
 
 ### 🏁 [Practice Lap — CAD in NX](./practice-lap-CAD) ✅ Complete
 `[██████████] 100%`  
