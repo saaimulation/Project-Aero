@@ -68,23 +68,15 @@ Then came the errors. Many of them.
   <img src="media/cfderror5.png" alt="Error 5" width="49%">
 </div>
 
-Tried everything I could think of: tutorials, docs, forums, even AI. Tweaked the model, repaired faces, changed the flow region, removed tiny slots. Still no joy. After four days it was clear the blocker was geometry integrity, not the physics setup.
+Tried everything I could think of: tutorials, docs, forums, even AI. Tweaked the model, repaired faces, changed the flow region, removed tiny slots.   
+Still no joy. After four days it was clear the blocker was geometry integrity, not the physics setup.
 
 ### Resources I used while debugging
 
-- SimScale forum: original geometry vs flow region and materials  
-  https://www.simscale.com/forum/t/my-original-geometry-and-flow-region-assigning-materials/99541/3
-
-- SimScale tutorial: Formula Student car (use “Edit a copy”)  
-  https://www.simscale.com/docs/tutorials/formula-student-car/#edit-a-copy
-
-- SimScale KB: intersections in model  
-  https://www.simscale.com/knowledge-base/intersections-in-model
-
-- SimScale forum: flat facet error  
-  https://www.simscale.com/forum/t/flat-facet-error-and/90315
-
-- YouTube: SimScale external aerodynamics tutorial  
-  https://www.youtube.com/watch?v=WsPy_TJotv4
+- SimScale forum thread on [assigning materials to original geometry vs flow region](https://www.simscale.com/forum/t/my-original-geometry-and-flow-region-assigning-materials/99541/3)
+- Official tutorial: [Formula Student car — Edit a copy](https://www.simscale.com/docs/tutorials/formula-student-car/#edit-a-copy)
+- Knowledge base: [Intersections in the model](https://www.simscale.com/knowledge-base/intersections-in-model)
+- Forum discussion: [Flat facet error](https://www.simscale.com/forum/t/flat-facet-error-and/90315)
+- Video guide: [External aerodynamics in SimScale](https://www.youtube.com/watch?v=WsPy_TJotv4)
 
 
