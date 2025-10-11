@@ -29,31 +29,65 @@ Think of this as Q1 in qualifying: the aim isn’t to smash records yet, but to 
 
 If I see these features, I’ll know the design philosophy was on the right track. If not… well, back to the CAD garage for ST1.  
 
-### Qualifying 1
-
-## Qualifying — SimScale notes
+# Qualifying — SimScale notes
 
 So we begin. New software, no idea what I’m doing. That’s fine. Fail fast, try again faster.
 
-**Import and scale**
+### Import and scale
 
-Imported the STL and the scale was wildly off.  
-![Initial import](media/cfd1.png) ![Scale check](media/cfd3.png)
+<div>
+  <img src="media/cfd1.png" alt="Initial import" width="49%">
+  <img src="media/cfd3.png" alt="Scale check" width="49%">
+</div>
 
-Scaled the model by a factor of **0.001** to convert mm → m.  
-![After scaling](media/cfdscaled.png)
+Scaled the model by a factor of **0.001** to convert mm → m.
 
-**Setup**
+<div>
+  <img src="media/cfdscaled.png" alt="After scaling" width="49%">
+</div>
 
-Created an external flow volume and set up an incompressible simulation.  
-![External flow region](media/cfd2.png) ![Simulation settings](media/cfdsetting.png)
+### Setup
 
-**What went wrong**
+Created an external flow volume and set up an incompressible simulation.
 
-Then came the errors. Many of them.  
-![Error 1](media/cfderror1.png) ![Error 2](media/cfderror2.png)  
-![Error 3](media/cfderror3.png) ![Error 4](media/cfderror4.png)  
-![Error 5](media/cfderror5.png)
+<div>
+  <img src="media/cfd2.png" alt="External flow region" width="49%">
+  <img src="media/cfdsetting.png" alt="Simulation settings" width="49%">
+</div>
+
+### What went wrong
+
+Then came the errors. Many of them.
+
+<div>
+  <img src="media/cfderror1.png" alt="Error 1" width="49%">
+  <img src="media/cfderror2.png" alt="Error 2" width="49%">
+</div>
+<div>
+  <img src="media/cfderror3.png" alt="Error 3" width="49%">
+  <img src="media/cfderror4.png" alt="Error 4" width="49%">
+</div>
+<div>
+  <img src="media/cfderror5.png" alt="Error 5" width="49%">
+</div>
 
 Tried everything I could think of: tutorials, docs, forums, even AI. Tweaked the model, repaired faces, changed the flow region, removed tiny slots. Still no joy. After four days it was clear the blocker was geometry integrity, not the physics setup.
+
+### Resources I used while debugging
+
+- SimScale forum: original geometry vs flow region and materials  
+  https://www.simscale.com/forum/t/my-original-geometry-and-flow-region-assigning-materials/99541/3
+
+- SimScale tutorial: Formula Student car (use “Edit a copy”)  
+  https://www.simscale.com/docs/tutorials/formula-student-car/#edit-a-copy
+
+- SimScale KB: intersections in model  
+  https://www.simscale.com/knowledge-base/intersections-in-model
+
+- SimScale forum: flat facet error  
+  https://www.simscale.com/forum/t/flat-facet-error-and/90315
+
+- YouTube: SimScale external aerodynamics tutorial  
+  https://www.youtube.com/watch?v=WsPy_TJotv4
+
 
