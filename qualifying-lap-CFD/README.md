@@ -31,8 +31,29 @@ If I see these features, I’ll know the design philosophy was on the right trac
 
 ### Qualifying 1
 
-So we begin! Just like the start of most of the work so far, I have absolutely no idea how to use this new software. 
-But that's fine, fail fast and try again faster!
+## Qualifying — SimScale notes
 
+So we begin. New software, no idea what I’m doing. That’s fine. Fail fast, try again faster.
 
+**Import and scale**
+
+Imported the STL and the scale was wildly off.  
+![Initial import](media/cfd1.png) ![Scale check](media/cfd3.png)
+
+Scaled the model by a factor of **0.001** to convert mm → m.  
+![After scaling](media/cfdscaled.png)
+
+**Setup**
+
+Created an external flow volume and set up an incompressible simulation.  
+![External flow region](media/cfd2.png) ![Simulation settings](media/cfdsetting.png)
+
+**What went wrong**
+
+Then came the errors. Many of them.  
+![Error 1](media/cfderror1.png) ![Error 2](media/cfderror2.png)  
+![Error 3](media/cfderror3.png) ![Error 4](media/cfderror4.png)  
+![Error 5](media/cfderror5.png)
+
+Tried everything I could think of: tutorials, docs, forums, even AI. Tweaked the model, repaired faces, changed the flow region, removed tiny slots. Still no joy. After four days it was clear the blocker was geometry integrity, not the physics setup.
 
