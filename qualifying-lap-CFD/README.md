@@ -69,7 +69,7 @@ Then came the errors. Many of them.
 </div>
 
 Tried everything I could think of: tutorials, docs, forums, even AI. Tweaked the model, repaired faces, changed the flow region, removed tiny slots.   
-Still no joy. After four days it was clear the blocker was geometry integrity, not the physics setup.
+Still no success. After four days it was clear the blocker was geometry integrity, not the physics setup.
 
 ### Resources I used while debugging
 
@@ -79,4 +79,7 @@ Still no joy. After four days it was clear the blocker was geometry integrity, n
 - Forum discussion: [Flat facet error](https://www.simscale.com/forum/t/flat-facet-error-and/90315)
 - Video guide: [External aerodynamics in SimScale](https://www.youtube.com/watch?v=WsPy_TJotv4)
 
+### Taking a step back
+
+I decided to think about my options, 
 
