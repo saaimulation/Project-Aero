@@ -60,7 +60,7 @@ Created an external flow volume and set up an incompressible simulation.
 Then came the errors. Many of them.
 
 <div>
-  <img src="media/cfderror1.png" alt="Error 1" width="49%">
+  <img src="media/cfderror.png" alt="Error 1" width="49%">
   <img src="media/cfderror2.png" alt="Error 2" width="49%">
 </div>
 <div>
