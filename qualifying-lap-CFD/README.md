@@ -40,7 +40,7 @@ So we begin. New software, no idea what I’m doing. That’s fine. Fail fast, t
   <img src="media/cfd3.png" alt="Scale check" width="49%">
 </div>
 
-Scaled the model by a factor of **0.001** to convert mm → m.
+Scaled the model by a factor of **0.001** to convert m → mm.
 
 <div>
   <img src="media/cfdscaled.png" alt="After scaling" width="49%">
