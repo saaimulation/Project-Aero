@@ -31,7 +31,7 @@ If I see these features, I’ll know the design philosophy was on the right trac
 
 # Qualifying — SimScale notes
 
-So we begin. New software, no idea what I’m doing. That’s fine. Fail fast, try again faster.
+So we begin. Starting off by importing my STL file into the software.
 
 ### Import and scale
 
@@ -81,5 +81,18 @@ Still no success. After four days it was clear the blocker was geometry integrit
 
 ### Taking a step back
 
-I decided to think about my options, 
+I decided to think about my options, since I was using a lot of time trying to debug this issue.  
+I realised that there was a good route to take, which was to switch to Star-CCM.   
 
+Let me explain:
+1. I recently got a license from my university to use Star-CCM+
+2. My role as an Aerodynamics Engineer for my Formula Student team only uses Star-CCM+
+3. The UAS team first wanted me to teach the team how to use SimScale, but now they want me to do Star-CCM+ instead
+4. My individual research project is with a supervisor who has 20 years of experience with Star-CCM+
+5. Star-CCM+ is an industrial standard CFD software
+
+In short, the answer was pretty clear, to go all-in on learning Star-CCM.   
+
+So that's what I did. 
+
+# 🌟Star-CCM
