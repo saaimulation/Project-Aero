@@ -110,4 +110,3 @@ In short, the answer was pretty clear, to go all-in on learning Star-CCM.
 
 So that's what I did. 
 
-# 🌟Star-CCM
