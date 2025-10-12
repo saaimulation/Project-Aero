@@ -29,6 +29,8 @@ Think of this as Q1 in qualifying: the aim isn’t to smash records yet, but to 
 
 If I see these features, I’ll know the design philosophy was on the right track. If not… well, back to the CAD garage for ST1.  
 
+---
+
 # Qualifying — SimScale notes
 
 So we begin. Starting off by importing my STL file into the software.
@@ -79,9 +81,22 @@ Still no success. After four days it was clear the blocker was geometry integrit
 - Forum discussion: [Flat facet error](https://www.simscale.com/forum/t/flat-facet-error-and/90315)
 - Video guide: [External aerodynamics in SimScale](https://www.youtube.com/watch?v=WsPy_TJotv4)
 
+---
+
 ### Taking a step back
 
-I decided to think about my options, since I was using a lot of time trying to debug this issue.  
+I decided to think about my options, since I was using a lot of time trying to debug this issue.   
+Realising that it was an issue with my CAD, which I did not want to believe because it felt like I was going backwards.   
+Regardless, I decided to look into it, and perfected my geometry for CFD testing.   
+
+Here is how it went.  
+
+# Fixing the geometry
+
+
+
+# 🌟Star-CCM
+
 I realised that there was a good route to take, which was to switch to Star-CCM.   
 
 Let me explain:
