@@ -7,7 +7,7 @@ Hello again! This time the final lap has finally begun! Designing and building t
 
 ## 🧠 Understanding Wind Tunnels 
 
-First thing on the agenda: RESEARCH
+First thing on the agenda: RESEARCH   
 I have to find out how these wind tunnels work! Learning and thinking about how to design and produce it is a step in every process of bringing something to life!
 
 So here is that I have learned:
