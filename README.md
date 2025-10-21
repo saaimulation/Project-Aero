@@ -31,8 +31,8 @@ Manufacturing a half-span model of the front wing on the Bambu A1, as well as a 
 These parts will be used for physical testing in the upgraded wind tunnel.  
 *psst. There's a free F1 wing model for you inside!*
 
-### 🌬️ [Grand Prix — Wind Tunnel Mark II](./grand-prix-wind-tunnel) ⏳ Planned  
-`[----------] 0%`  
+### 🌬️ [Grand Prix — Wind Tunnel Mark II](./grand-prix-wind-tunnel) 🔄 In Progress 
+`[█---------] 10%`  
 Testing the 3D-printed wing in a new tunnel with flow visualisation techniques.  
 The key aim is to evaluate how closely the tunnel data aligns with CFD predictions.  
 
