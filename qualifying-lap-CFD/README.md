@@ -31,7 +31,7 @@ If I see these features, I’ll know the design philosophy was on the right trac
 
 ---
 
-# Qualifying — SimScale notes
+# SimScale notes
 
 So we begin. Starting off by importing my STL file into the software.
 
@@ -91,7 +91,7 @@ Regardless, I decided to look into it, and perfected my geometry for CFD testing
 
 Here is how it went.  
 
-# Fixing the geometry
+### Fixing the geometry
 
 
 
