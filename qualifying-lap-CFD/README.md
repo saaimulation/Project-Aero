@@ -106,7 +106,7 @@ Let me explain:
 4. My individual research project is with a supervisor who has 20 years of experience with Star-CCM+
 5. Star-CCM+ is an industrial standard CFD software
 
-In short, the answer was pretty clear, to go all-in on learning Star-CCM.   
+In short, the answer was pretty clear, to go all-in on learning Star-CCM+.   
 
 So that's what I did. 
 
