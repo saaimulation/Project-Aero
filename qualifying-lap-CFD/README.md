@@ -80,33 +80,23 @@ Still no success.  After four days it was clear the blocker was geometry integri
 - Knowledge base: [Intersections in the model](https://www.simscale.com/knowledge-base/intersections-in-model)
 - Forum discussion: [Flat facet error](https://www.simscale.com/forum/t/flat-facet-error-and/90315)
 - Video guide: [External aerodynamics in SimScale](https://www.youtube.com/watch?v=WsPy_TJotv4)
-
+  
 ---
 
 ### Taking a step back
 
-I decided to think about my options, since I was using a lot of time trying to debug this issue.   
-Realising that it was an issue with my CAD, which I did not want to believe because it felt like I was going backwards.   
-Regardless, I decided to look into it, and perfected my geometry for CFD testing.   
+I was spending too long debugging and accepted the root cause: my CAD needed work.   
+It felt like going backwards, but fixing the geometry was the fastest way forward.   
+I cleaned it for CFD and documented what changed.
 
-Here is how it went.  
+## 🌟 Why I’m moving to STAR-CCM+
 
-### Fixing the geometry
+A few things made the choice clear:
+- I have a university license for STAR-CCM+.
+- Our Formula Student aero work uses STAR-CCM+.
+- The UAV workshop has moved to STAR-CCM+.
+- STAR-CCM+ has a pretty good geometry repair tool.
+- My individual research project is supervised by someone with 20+ years using STAR-CCM+.
+- It is an industry standard tool with solid surface repair and external-aero workflows.
 
-
-
-## 🌟Star-CCM
-
-I realised that there was a good route to take, which was to switch to Star-CCM.   
-
-Let me explain:
-1. I recently got a license from my university to use Star-CCM+
-2. My role as an Aerodynamics Engineer for my Formula Student team only uses Star-CCM+
-3. The UAS team first wanted me to teach the team how to use SimScale, but now they want me to do Star-CCM+ instead
-4. My individual research project is with a supervisor who has 20 years of experience with Star-CCM+
-5. Star-CCM+ is an industrial standard CFD software
-
-In short, the answer was pretty clear, to go all-in on learning Star-CCM+.   
-
-So that's what I did. 
-
+In short, I’m going all-in on STAR-CCM+. 
