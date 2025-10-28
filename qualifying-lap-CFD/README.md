@@ -1,4 +1,4 @@
-# 🏎️ Qualifying Lap — CFD  
+I# 🏎️ Qualifying Lap — CFD  
 
 "And here we are, lights out on the next stage of Project: Aero! The CAD lap is in the books, ST0 has rolled out of the garage, and it’s heading straight into the CFD arena. No wind tunnel, no factory-scale computers. Just me, SimScale, and a very nervous laptop fan."  
 
@@ -66,7 +66,7 @@ Then came the errors. Many of them.
   <img src="media/cfderror2.png" alt="Error 2" width="49%">
 </div>
 <div>
-  <img src="media/cfderror3.png" alt="Error 3" width="49%">
+  <img src="media/cfderror3.png" alt="Error 3" width="25%">
   <img src="media/cfderror5.png" alt="Error 5" width="49%">
 </div>
 
