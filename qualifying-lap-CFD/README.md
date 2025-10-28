@@ -66,7 +66,7 @@ Then came the errors. Many of them.
   <img src="media/cfderror2.png" alt="Error 2" width="49%">
 </div>
 <div>
-  <img src="media/cfderror3.png" alt="Error 3" width="25%">
+  <img src="media/cfderror3.png" alt="Error 3" width="20%">
   <img src="media/cfderror5.png" alt="Error 5" width="49%">
 </div>
 
