@@ -67,7 +67,7 @@ Then came the errors. Many of them.
 </div>
 <div>
   <img src="media/cfderror3.png" alt="Error 3" width="20%">
-  <img src="media/cfderror5.png" alt="Error 5" width="49%">
+  <img src="media/cfderror5.png" alt="Error 5" width="60%">
 </div>
 
 Tried everything I could think of: tutorials, docs and forums. Tweaked the model, repaired faces, changed the flow region, removed tiny slots.  
