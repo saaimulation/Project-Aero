@@ -1,4 +1,4 @@
-I# 🏎️ Qualifying Lap — CFD  
+# 🏎️ Qualifying Lap — CFD  
 
 "And here we are, lights out on the next stage of Project: Aero! The CAD lap is in the books, ST0 has rolled out of the garage, and it’s heading straight into the CFD arena. No wind tunnel, no factory-scale computers. Just me, SimScale, and a very nervous laptop fan."  
 
