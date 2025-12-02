@@ -86,6 +86,8 @@ Still no success.  After four days it was clear the blocker was geometry integri
 ### Taking a step back ⏪
 
 I was spending too long debugging and accepted the root cause: my CAD needed work.   
-It felt like going backwards, but fixing the geometry was the fastest way forward.   
+It felt like going backwards, but fixing the geometry was the fastest way forward. 
 
 Unfortunately, ST0 did not qualify in Q1...
+
+Back to the garage for Q2
