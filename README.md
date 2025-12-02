@@ -20,7 +20,7 @@ Grab a coffee (or duct tape) and enjoy the race ;)
 Creating the baseline front wing geometry in Siemens NX.  
 The design takes inspiration from the RB19, while considering upcoming 2026 regulations.  
 
-### 🚦 [Qualifying Lap — CFD in StarCCM](./qualifying-lap-CFD) 🔄 In Progress 
+### 🚦 [Qualifying 1 — The First Obstacle](./qualifying-1-CFD) 🔄 In Progress 
 `[██--------] 20%`  
 Running the CAD model through CFD to assess airflow and downforce in a virtual wind tunnel.  
 This stage provides the first performance insights before moving to physical testing.  
