@@ -1,4 +1,4 @@
-# 🏎️ Qualifying Lap — CFD  
+# 🏎️ Qualifying 1  
 
 "And here we are, lights out on the next stage of Project: Aero! The CAD lap is in the books, ST0 has rolled out of the garage, and it’s heading straight into the CFD arena. No wind tunnel, no factory-scale computers. Just me, SimScale, and a very nervous laptop fan."  
 
@@ -57,7 +57,7 @@ Created an external flow volume and set up an incompressible simulation.
   <img src="media/cfdsetting.png" alt="Simulation settings" width="49%">
 </div>
 
-### What went wrong
+### What went wrong 🤕
 
 Then came the errors. Many of them.
 
@@ -73,7 +73,7 @@ Then came the errors. Many of them.
 Tried everything I could think of: tutorials, docs and forums. Tweaked the model, repaired faces, changed the flow region, removed tiny slots.  
 Still no success.  After four days it was clear the blocker was geometry integrity, not the physics setup.
 
-### Resources I used while debugging
+### Resources I used while debugging 🤖
 
 - SimScale forum thread on [assigning materials to original geometry vs flow region](https://www.simscale.com/forum/t/my-original-geometry-and-flow-region-assigning-materials/99541/3)
 - Official tutorial: [Formula Student car — Edit a copy](https://www.simscale.com/docs/tutorials/formula-student-car/#edit-a-copy)
@@ -83,20 +83,9 @@ Still no success.  After four days it was clear the blocker was geometry integri
   
 ---
 
-### Taking a step back
+### Taking a step back ⏪
 
 I was spending too long debugging and accepted the root cause: my CAD needed work.   
 It felt like going backwards, but fixing the geometry was the fastest way forward.   
-I cleaned it for CFD and documented what changed.
 
-## 🌟 Why I’m moving to STAR-CCM+
-
-A few things made the choice clear:
-- I have a university license for STAR-CCM+.
-- Our Formula Student aero work uses STAR-CCM+.
-- The UAV workshop has moved to STAR-CCM+.
-- STAR-CCM+ has a pretty good geometry repair tool.
-- My individual research project is supervised by someone with 20+ years using STAR-CCM+.
-- It is an industry standard tool with solid surface repair and external-aero workflows.
-
-In short, I’m going all-in on STAR-CCM+. 
+Unfortunately, ST0 did not qualify in Q1...
