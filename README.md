@@ -20,17 +20,17 @@ Grab a coffee (or duct tape) and enjoy the race ;)
 Creating the baseline front wing geometry in Siemens NX.  
 The design takes inspiration from the RB19, while considering upcoming 2026 regulations.  
 
-### 🔴 [Qualifying 1 — Red Flag](./qualifying-1) ✅ Complete
+### 🔴 [Qualifying 1 — Red Flag](./qualifying-1-CFD) ✅ Complete
 `[██████████] 100%`  
 This is the first attempt of running CFD on my wing! <br>
 Met with unexpected difficulties, this is a stepping stone to becoming better. 
 
-### ♟️ [Qualifying 2 — Changing Strategy](./qualifying-2) 🔄 In Progress 
+### ♟️ [Qualifying 2 — Changing Strategy](./qualifying-2-CFD) 🔄 In Progress 
 `[----------] 0%` 
 After some insightful feedback from a real F1 engineer, I've started this lap with fresh tyres.   
 Currently designing the 2nd iteration for my front wing!
 
-### ♟️ [Qualifying 3 — ???](./qualifying-3) ⏳ Planned 
+### [Qualifying 3 — ???](./qualifying-3-CFD) ⏳ Planned 
 `[----------] 0%`
 Not sure if this will be needed yet!
 
