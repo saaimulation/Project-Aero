@@ -26,12 +26,12 @@ This is the first attempt of running CFD on my wing! <br>
 Met with unexpected difficulties, this is a stepping stone to becoming better. 
 
 ### ♟️ [Qualifying 2 — Changing Strategy](./qualifying-2-CFD) 🔄 In Progress 
-`[----------] 0%` 
+`[----------] 0%` <br>
 After some insightful feedback from a real F1 engineer, I've started this lap with fresh tyres.   
 Currently designing the 2nd iteration for my front wing!
 
 ### [Qualifying 3 — ???](./qualifying-3-CFD) ⏳ Planned 
-`[----------] 0%`
+`[----------] 0%` <br>
 Not sure if this will be needed yet!
 
 ### 🏎️ [Sprint Lap — 3D Printing](./sprint-3D-printing) ✅ Complete
