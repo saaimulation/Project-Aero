@@ -1,15 +1,24 @@
-# Project: Aero 🏎️
-Designing wings that (almost) qualify for Monaco — CAD → CFD → 3D print → Wind Tunnel  
+# ST0 — Front Wing Project 🏎️
+Designing wings that (almost) qualify for Monaco — CAD → simulation → prototyping → iteration
 
-Welcome to the BATCAVE🦇 
+This repo documents my attempt at designing a 2026-style F1 front wing in Siemens NX while learning more about aerodynamic design, CAD surfacing, manufacturing, and engineering workflows along the way.
 
-This repo is where I document my Formula 1-inspired aero projects.  
-From sketches in NX to simulations in SimScale and 3D prints at 3 am, as well as smoke tests in a homemade wind-tunnel.
+What started as a personal aero project quickly became a massive learning experience involving CFD issues, geometry problems, redesigns, failed prints, and incredibly valuable feedback from an Alpine F1 aerodynamicist.
 
-IT'S ALL HERE!
+The goal was never to create a perfect F1 wing.  
+It was to learn how real engineering development actually works:
+- iteration
+- problem solving
+- criticism
+- redesigning
+- and occasionally questioning every life decision at 2am
 
-I’m still early in the journey, so you’ll (hopefully) see the quality of my work improve lap by lap.  
-Grab a coffee (or duct tape) and enjoy the race ;)  
+Some ideas worked.  
+Some absolutely did not.
+
+But honestly, that’s probably the most realistic part of the whole project.
+
+Grab a coffee (or duct tape) and enjoy the race ;)
 
 ---
 
